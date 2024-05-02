@@ -125,7 +125,5 @@ for(i = 0 ; i < products.length ; i++){
 </div>
    
     `
-    // card.innerHTML = ""
+    
 }
-
-// ASSIGNMENT 
